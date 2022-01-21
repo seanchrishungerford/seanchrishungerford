@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on great applications 
-- 📫 How to reach me: email: seanhungerford10@gmail.com
+- 📫 How to reach me: seanhungerford10@gmail.com
 
 <!---
 seanchrishungerford/seanchrishungerford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
