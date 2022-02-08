@@ -1,3 +1,5 @@
+NOTE: A few of my projects have been permanently deleted, due to my noticing a security issue (personal info revealed). If you are interested in seeing any of this previous work (minus the personal info), feel free to contact/email me. I can demonstrate most of the things currently listed on my current Resume, using the Java programming language and other framework(s).
+
 - 👋 Hi, I’m @seanchrishungerford
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Full Stack development
