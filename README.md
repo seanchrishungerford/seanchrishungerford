@@ -2,7 +2,7 @@ NOTE: A few of my projects have been permanently deleted, due to my noticing a s
 
 - 👋 Hi, I’m @seanchrishungerford
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I’m currently learning full-stack development, and more
 - 💞️ I’m looking to collaborate on great applications 
 - 📫 How to reach me: seanhungerford10@gmail.com
 
